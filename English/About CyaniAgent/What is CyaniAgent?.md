@@ -10,7 +10,7 @@ Beyond software development, **CyaniAgent is also an open community** where peop
 
 Whether you are a developer, designer, technology enthusiast, or simply someone curious about what we do, you are welcome to explore our work, participate in discussions, and contribute in ways that suit your interests and abilities.
 
-## Our Principles
+## Our Principlaes
 
 ### Openness and Freedom
 
@@ -50,6 +50,11 @@ Our projects span several areas of software development and technological explor
 Our projects evolve over time. Some are actively developed, while others remain experimental or under exploration. We value the opportunities to learn, iterate, and improve throughout the development process.
 
 ## Join the Community
+
+We offer several ways for you to join our community:
+- [Discord Server](https://discord.com/invite/RaVxb7RDep)
+- [QQ Group](https://qm.qq.com/q/SKogHEjG2m)(Currently available only in China)
+- [Misskey Community](https://hub.imikufans.com)(Unofficial Server)
 
 CyaniAgent is more than a collection of repositories. It is a place for people to connect through technology, exchange ideas, learn from one another, and build things together.
 
