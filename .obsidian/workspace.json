@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09a41750adcf46ad",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/pickpen/sync-base.json",
-                "bFile": ".obsidian/plugins/pickpen/sync-base.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: sync-base.json  (Working Tree)"
-            }
-          },
-          {
             "id": "c007bb78f8530f1a",
             "type": "leaf",
             "state": {
@@ -224,7 +210,7 @@
       "pickpen:Pickpen Sync 设置": false
     }
   },
-  "active": "09a41750adcf46ad",
+  "active": "69df34b7287bed56",
   "lastOpenFiles": [
     "简体中文/关于 CyaniAgent/什么是 CyaniAgent？.md",
     "English/About CyaniAgent/What is CyaniAgent?.md",
