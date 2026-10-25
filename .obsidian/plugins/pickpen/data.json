@@ -6,7 +6,7 @@
     "audio": true,
     "video": true,
     "pdf": true,
-    "other": false,
+    "other": true,
     "excludedFolders": [],
     "config": {
       "app": true,
