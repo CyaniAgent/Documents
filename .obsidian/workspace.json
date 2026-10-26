@@ -11,14 +11,14 @@
             "id": "c007bb78f8530f1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "English/About CyaniAgent/What is CyaniAgent.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "What is CyaniAgent"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/About CyaniAgent/What is CyaniAgent.md",
+                "file": "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/About CyaniAgent/What is CyaniAgent.md",
+                "file": "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/About CyaniAgent/What is CyaniAgent.md",
+                "file": "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,7 +176,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "English/About CyaniAgent/What is CyaniAgent.md"
+                "file": "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -217,10 +217,10 @@
   },
   "active": "c007bb78f8530f1a",
   "lastOpenFiles": [
-    "English/About CyaniAgent/未命名 (conflict c6f273 2026-10-25T10-15-16-378Z).md",
-    "English/About CyaniAgent/What is CyaniAgent.md",
-    "简体中文/关于 CyaniAgent/什么是 CyaniAgent？ (conflict c6f273 2026-10-25T10-07-36-193Z).md",
     "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md",
+    "English/About CyaniAgent/What is CyaniAgent.md",
+    "English/About CyaniAgent/未命名 (conflict c6f273 2026-10-25T10-15-16-378Z).md",
+    "简体中文/关于 CyaniAgent/什么是 CyaniAgent？ (conflict c6f273 2026-10-25T10-07-36-193Z).md",
     "English/About CyaniAgent/未命名.md",
     "简体中文/我们的项目/Misumi",
     "简体中文/我们的项目/Nyachi",
