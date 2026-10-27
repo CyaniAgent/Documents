@@ -1,4 +1,2 @@
-.obsidian/*
-
-/.obsidian/plugins/pickpen/sync-base.json
-/.obsidian/workspace.json
+# Obsidian related file
+.obsidian/

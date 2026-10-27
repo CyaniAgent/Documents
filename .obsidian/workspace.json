@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6cbc5e81247ac4",
+        "id": "87984a24b9e7b795",
         "type": "tabs",
         "children": [
           {
-            "id": "28468ecf87649086",
+            "id": "23ca6063976f6cc8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -211,24 +211,25 @@
       "pickpen:Pickpen Sync 设置": false
     }
   },
-  "active": "28468ecf87649086",
+  "active": "23ca6063976f6cc8",
   "lastOpenFiles": [
+    "日本語/私たちのプロジェクト/Nyachi",
+    "日本語/私たちのプロジェクト/Misumi",
+    "日本語/私たちのプロジェクト/Asagity",
+    "日本語/私たちのプロジェクト",
+    "日本語/CyaniAgent について",
+    "日本語/同音異義語の区別",
+    "English/Disambiguation/未命名",
+    "English/Disambiguation",
     "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md",
-    "简体中文/相关的消歧义",
+    "简体中文/消歧义",
     "English/About CyaniAgent/What is CyaniAgent.md",
     "English/About CyaniAgent/未命名 (conflict c6f273 2026-10-25T10-15-16-378Z).md",
     "简体中文/关于 CyaniAgent/什么是 CyaniAgent？ (conflict c6f273 2026-10-25T10-07-36-193Z).md",
     "English/About CyaniAgent/未命名.md",
     "简体中文/我们的项目/Misumi",
     "简体中文/我们的项目/Nyachi",
-    "简体中文/我们的项目/Asagity",
-    "English/Our Projects",
-    "English/About CyaniAgent",
-    "简体中文/我们的项目",
-    "简体中文/关于 CyaniAgent",
-    "未命名",
     "欢迎.md",
-    "日本語",
     "未命名.canvas"
   ]
 }
