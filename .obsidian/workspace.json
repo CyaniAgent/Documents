@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87984a24b9e7b795",
+        "id": "152c1e78525dc1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef853066ebd601b",
+            "id": "1e4794f51b4c0fdf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -214,7 +210,7 @@
       "pickpen:Pickpen Sync 设置": false
     }
   },
-  "active": "6ef853066ebd601b",
+  "active": "69df34b7287bed56",
   "lastOpenFiles": [
     "English/About CyaniAgent/What is CyaniAgent.md",
     "日本語/CyaniAgent について/CyaniAgent とは.md",
