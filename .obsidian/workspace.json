@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff8d343409a19d4",
+        "id": "4b6cbc5e81247ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "edc86512296f57c3",
+            "id": "28468ecf87649086",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -211,9 +211,10 @@
       "pickpen:Pickpen Sync 设置": false
     }
   },
-  "active": "69df34b7287bed56",
+  "active": "28468ecf87649086",
   "lastOpenFiles": [
     "简体中文/关于 CyaniAgent/什么是 CyaniAgent.md",
+    "简体中文/相关的消歧义",
     "English/About CyaniAgent/What is CyaniAgent.md",
     "English/About CyaniAgent/未命名 (conflict c6f273 2026-10-25T10-15-16-378Z).md",
     "简体中文/关于 CyaniAgent/什么是 CyaniAgent？ (conflict c6f273 2026-10-25T10-07-36-193Z).md",
@@ -228,7 +229,6 @@
     "未命名",
     "欢迎.md",
     "日本語",
-    "English/日本語",
     "未命名.canvas"
   ]
 }
