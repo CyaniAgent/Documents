@@ -1,3 +1,7 @@
+---
+title: What is CyaniAgent
+---
+
 **Connecting Aesthetics with Underlying Technology.**
 
 _Connect · Create · Collaborate._
