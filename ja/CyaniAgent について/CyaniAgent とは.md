@@ -1,6 +1,6 @@
 ---
 title: CyaniAgent とは
-id: What-is-CyaniAgent
+identify: What-is-CyaniAgent
 ---
 
 **美学と基盤となるテクノロジーを結びつける。**
